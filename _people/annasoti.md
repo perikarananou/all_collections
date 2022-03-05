@@ -6,7 +6,6 @@ rank: 5
 author:	annasoti
 email: "annasoti@ionio.gr"
 phone: "2661087768"
-uri:  "http://www.ionio.gr/~annasoti"
 research:
  - "ΔΔομές Δεδομένων"
  - "Ηλεκτρονικό Επιχειρείν"
